@@ -1,0 +1,10 @@
+c:\Users\home\source\repos\Game\Game15\Game15\bin\Debug\Game15.exe.config
+c:\Users\home\source\repos\Game\Game15\Game15\bin\Debug\Game15.exe
+c:\Users\home\source\repos\Game\Game15\Game15\bin\Debug\Game15.pdb
+c:\Users\home\source\repos\Game\Game15\Game15\obj\Debug\Game15.csprojAssemblyReference.cache
+c:\Users\home\source\repos\Game\Game15\Game15\obj\Debug\Game15.Form1.resources
+c:\Users\home\source\repos\Game\Game15\Game15\obj\Debug\Game15.Properties.Resources.resources
+c:\Users\home\source\repos\Game\Game15\Game15\obj\Debug\Game15.csproj.GenerateResource.cache
+c:\Users\home\source\repos\Game\Game15\Game15\obj\Debug\Game15.csproj.CoreCompileInputs.cache
+c:\Users\home\source\repos\Game\Game15\Game15\obj\Debug\Game15.exe
+c:\Users\home\source\repos\Game\Game15\Game15\obj\Debug\Game15.pdb
